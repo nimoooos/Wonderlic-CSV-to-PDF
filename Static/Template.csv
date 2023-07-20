@@ -1,2 +1,2 @@
-lastname	firstname	cognitive_score	motivation	overall personality	dependability	stress_tolerance	cooperation	sociability	open-mindedness
-Example	Person	108	49	20	16	70	26	24	42
+lastname,firstname,cognitive_score,motivation,overall_personality,dependability,stress_tolerance,cooperation,sociability,open-mindedness
+Example,Person,108,49,20,16,70,26,24,42
