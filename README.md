@@ -1,5 +1,7 @@
 # Wonderlic-CSV-to-PDF
 
+This project is put on hold for the foreseeable future.
+
 Requirements
 Continue doing the same data validation
 Enter data by uploading a .csv file
